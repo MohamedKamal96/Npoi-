@@ -1,0 +1,92 @@
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI API.dll.config
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI API.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI API.pdb
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csc.exe
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csc.exe.config
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csc.rsp
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csi.exe
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csi.exe.config
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\csi.rsp
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.AppContext.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Console.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\vbc.exe
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\vbc.exe.config
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\vbc.rsp
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fawzy\source\repos\NPOI API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fawzy\source\repos\NPOI API\bin\Antlr3.Runtime.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\Newtonsoft.Json.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Net.Http.Formatting.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Helpers.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Http.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Http.WebHost.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Mvc.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Optimization.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Razor.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\WebGrease.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\Newtonsoft.Json.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Net.Http.Formatting.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Helpers.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Http.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Http.WebHost.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Mvc.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Optimization.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.Razor.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\Antlr3.Runtime.pdb
+C:\Users\Fawzy\source\repos\NPOI API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fawzy\source\repos\NPOI API\obj\Debug\NPOI API.csprojAssemblyReference.cache
+C:\Users\Fawzy\source\repos\NPOI API\obj\Debug\NPOI API.csproj.CoreCompileInputs.cache
+C:\Users\Fawzy\source\repos\NPOI API\obj\Debug\NPOI API.csproj.CopyComplete
+C:\Users\Fawzy\source\repos\NPOI API\obj\Debug\NPOI API.dll
+C:\Users\Fawzy\source\repos\NPOI API\obj\Debug\NPOI API.pdb
+C:\Users\Fawzy\source\repos\NPOI API\bin\EntityFramework.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\EntityFramework.SqlServer.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI.OOXML.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI.OpenXml4Net.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\NPOI.OpenXmlFormats.dll
+C:\Users\Fawzy\source\repos\NPOI API\bin\EntityFramework.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\EntityFramework.SqlServer.xml
+C:\Users\Fawzy\source\repos\NPOI API\bin\ICSharpCode.SharpZipLib.xml
